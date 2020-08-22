@@ -48,7 +48,7 @@ Here are some ideas to get you started:
       </td>
       <td width="16.6%" align="center">
         <strong>Vuetify</strong><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/vuetify.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/vuetifyjs.svg">
       </td>
       <td width="16.6%" align="center">
         <strong>Vue.js</strong><br><br>
