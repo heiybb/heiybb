@@ -26,33 +26,33 @@ Here are some ideas to get you started:
 <table>
   <tbody>
     <tr valign="top">
-      <td width="16.6%" align="center">
+      <td width="12%" align="center">
         <strong>Java</strong><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
       </td>
-      <td width="16.6%" align="center">
+      <td width="12%" align="center">
         <strong>Python</strong><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
-      <td width="16.6%" align="center">
+      <td width="12%" align="center">
         <strong>JavaScript</strong><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
-      <td width="16.6%" align="center">
+      <td width="12%" align="center">
         <strong>Bash</strong><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/bash.svg">
       </td>
-      <td width="16.6%" align="center">
+      <td width="12%" align="center">
+        <strong>Vue.js</strong><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
+      </td>
+      <td width="12%" align="center">
         <strong>Spring</strong><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/spring.svg">
       </td>
-      <td width="16.6%" align="center">
+      <td width="12%" align="center">
         <strong>Vuetify</strong><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/vuetifyjs.svg">
-      </td>
-      <td width="16.6%" align="center">
-        <strong>Vue.js</strong><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
       </td>
     </tr>
   </tbody>
