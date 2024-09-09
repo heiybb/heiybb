@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 **heiybb**. Currently in-depth learning Vue.js + Spring Boot full-stack development.
 
-* 📪 Email: [`hf.heiybb@gmail.com`](mailto:hf.heiybb@gmail.com)
+* 📪 Email: [`git@chr.moe`](mailto:git@chr.moe)
 * 🌎 My blog: [`https://heiybb.com`](https://heiybb.com)
 * 🔑 Linkedin: [`https://www.linkedin.com/in/bobin-yuan-sync/`](https://www.linkedin.com/in/bobin-yuan-sync/)
 
